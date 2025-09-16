@@ -20,6 +20,6 @@ Hi! My name is Satyam 😄
 </div>
 <div id="badges">
   <a href="https://x.com/satyam_o_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" alt="X Badge"/>
   </a>
 </div>
