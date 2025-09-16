@@ -8,7 +8,7 @@ Hi! My name is Satyam 😄
 
 ### Tech stack
 
- [![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwind,nodejs,express,firebase,mongo)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,react,next,tailwind,nodejs,express,firebase,mongo)]
 
 ### Socials
 
