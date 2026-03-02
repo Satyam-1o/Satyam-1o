@@ -1,8 +1,14 @@
-Hi! My name is Satyam 😄
-========================================================================================================================================
+# Light
 
-I am a Full-Stack Developer based in New Delhi, India.
-</br>
-Open to work!
-</br>
-**[Portfolio](https://satyam-kumar-1.vercel.app/)**
+Shipping small ideas into working tools.
+Some of them evolve.
+
+Web • Game • AI
+
+Currently exploring:
+- Backend development
+- Web development
+- Game development fundamentals
+- Machine learning
+
+Working on personal tools and experiments.
