@@ -9,6 +9,5 @@ Currently exploring:
 - Backend development
 - Web Application
 - 2D Game development
-- Machine learning
 
 Working on personal tools and experiments.
