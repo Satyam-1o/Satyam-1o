@@ -3,11 +3,11 @@
 Shipping small ideas into working tools.
 Some of them evolve.
 
-Web • Game • AI
+Web • Backend • AI
 
 Currently exploring:
 - Backend development
 - Web Application
-- 2D Game development
+- AWS and DevOps
 
 Working on personal tools and experiments.
