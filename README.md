@@ -3,7 +3,7 @@
 Shipping small ideas into working tools.
 Some of them evolve.
 
-Web • Backend • AI
+Web • Backend • Cloud
 
 Currently exploring:
 - Backend development
